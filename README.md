@@ -15,14 +15,23 @@ NOTE: The accuracy gap is the point: a trivial "no" classifier scores 85% but ha
 Top-10 Gini importance (stable ranking across seeds):
 
 purchase_lead        ████████████████████████████████  ~0.31
+
 length_of_stay       ██████████████████                ~0.14
+
 flight_duration      ███████████                       ~0.09
+
 flight_hour          █████████                         ~0.08
+
 route (one-hot)      ████████                          ~0.07
+
 booking_origin       ██████                            ~0.06
+
 flight_day           █████                             ~0.05
+
 num_passengers       ████                              ~0.04
+
 sales_channel        ███                               ~0.03
+
 wants_extra_baggage  ██                                ~0.02
 
 Sanity checks before you trust the numbers
