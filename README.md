@@ -37,3 +37,10 @@ max	9.000000	867.000000	778.00000	23.00000	7.000000	1.000000	1.000000	1.000000	9
 The .describe() method gives us a summary of descriptive statistics over the entire dataset (only works for numeric columns). This gives us a quick overview of a few things such as the mean, min, max and overall distribution of each column.
 
 From this point, you should continue exploring the dataset with some visualisations and other metrics that you think may be useful. Then, you should prepare your dataset for predictive modelling. Finally, you should train your machine learning model, evaluate it with performance metrics and output visualisations for the contributing variables. All of this analysis should be summarised in your single slide.
+
+
+Please make use of the Customer_Booking_Model.ipynb for the task be done in Python.
+
+
+
+
