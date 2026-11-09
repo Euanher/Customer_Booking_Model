@@ -73,6 +73,8 @@ python scripts/cv_pipeline_with_permutation_importance.py data/customer_booking.
 
 for the task be done in Python.
 
+All the process documentation is added for DOD.
+
 
 
 
